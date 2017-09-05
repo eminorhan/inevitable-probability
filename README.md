@@ -1,7 +1,7 @@
 # Inevitable Probability
 This repository contains the code and data used to obtain the results reported in the following paper:
 
-Orhan AE, Ma WJ (2017) [Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback.] (https://www.nature.com/articles/s41467-017-00181-8) *Nature Communications*, 8, 138.
+Orhan AE, Ma WJ (2017) [Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback.](https://www.nature.com/articles/s41467-017-00181-8) *Nature Communications*, 8, 138.
 
 The bulk of the code is written in [Theano](http://www.deeplearning.net/software/theano/) (0.8.2) + [Lasagne](http://lasagne.readthedocs.io/en/latest/) (0.2.dev1). Each folder contains code and data pertaining to a particular model type or experiment:
 
